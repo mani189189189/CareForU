@@ -9,9 +9,4 @@
 <i> To install the app, just download the apk for Android <a href="https://github.com/rishab951/CareForU/releases/download/v1.0.0/CareForU.apk" target="_blank">from here</a>. </i><br />
 <i><br /></i>
 <br />
-<h3 style="text-align: left;">
-<i>Screenshots<!--more--></i></h3>
-</div>
-<i><b>Splash Screen</b></i><br />
-<div class="separator" style="clear: both; text-align: center;">
-</div>
+
