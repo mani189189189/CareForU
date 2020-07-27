@@ -5,6 +5,9 @@ buildscript {
         maven { url 'https://maven.google.com' }
         jcenter()
     }
+    plugins {
+    id "com.github.johnrengelman.shadow" version "5.1.0"
+    }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.0'
 
